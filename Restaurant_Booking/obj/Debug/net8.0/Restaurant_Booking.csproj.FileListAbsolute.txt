@@ -127,3 +127,4 @@ D:\Micro\Restaurant_Booking\Restaurant_Booking\obj\Debug\net8.0\Restaurant_Booki
 D:\Micro\Restaurant_Booking\Restaurant_Booking\obj\Debug\net8.0\ref\Restaurant_Booking.dll
 D:\Micro\Restaurant_Booking\Restaurant_Booking\bin\Debug\net8.0\Restaurant_Booking.staticwebassets.runtime.json
 D:\Micro\Restaurant_Booking\Restaurant_Booking\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Micro\Restaurant_Booking\Restaurant_Booking\obj\Debug\net8.0\Restaurant_Booking.sourcelink.json
